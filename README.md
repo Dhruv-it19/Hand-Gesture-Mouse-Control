@@ -18,7 +18,7 @@ pip install opencv-python numpy mediapipe autopy
 
 ### **2️⃣ Clone this repository**
 
-git clone https://github.com/Dj191919/Hand-Gesture-Mouse-Control.git
+git clone https://github.com/Dhruv-it19/Hand-Gesture-Mouse-Control.git
 
 cd hand-gesture-mouse
 
